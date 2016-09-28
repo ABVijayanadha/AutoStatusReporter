@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/ABVijayanadha/AutoStatusReporter/issues"
   },
-  "homepage": "https://github.com/ABVijayanadha/AutoStatusReporter#readme"
+  "homepage": "https://github.com/ABVijayanadha/AutoStatusReporter#readme",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
 }
