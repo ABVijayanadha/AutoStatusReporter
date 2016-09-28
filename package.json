@@ -1,0 +1,24 @@
+{
+  "name": "auto-status-reporter",
+  "version": "1.0.0",
+  "description": "Product written in electron js.",
+  "main": "main,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABVijayanadha/AutoStatusReporter.git"
+  },
+  "keywords": [
+    "auto",
+    "status",
+    "email"
+  ],
+  "author": "anuj & arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABVijayanadha/AutoStatusReporter/issues"
+  },
+  "homepage": "https://github.com/ABVijayanadha/AutoStatusReporter#readme"
+}
